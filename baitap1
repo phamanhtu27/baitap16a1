@@ -1,0 +1,7 @@
+touch tincoso1.txt
+touch tincoso2.txt
+touch tincoso3.txt
+touch tincoso4.txt
+dir
+git status
+git add tincoso1.txt tincoso2.txt tincoso3.txt tincoso4.txt 
